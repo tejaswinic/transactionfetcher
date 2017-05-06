@@ -13,5 +13,7 @@ gradle clean build
 
 # Running
 gradle bootRun
-Rest endpoint localhost:8080/statistics
+
+# Rest Endpoint
+localhost:8080/statistics
 
